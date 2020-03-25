@@ -3,7 +3,7 @@ This is my own personal journey through the 24 Steps of Disciplined Entrepreneur
 
 These steps will help me valididate an idea from seed to full blown product-market fit
 
-I've been struggling to get a REAL idea off the ground, and refuse to believe in stumbling for another 10 years.
+I've been struggling to get a REAL idea off the ground, and refuse to believe in stumbling for 10 years.
 
 Learning from the best among us is the easiest & fastest way to get going
 

@@ -24,3 +24,7 @@ Six Themes of Successful Innovation Based Businesses (24 steps)
 > How do you design & build your product ? 
 
 > How do you Scale ? 
+
+Successful IOT Examples
+-- https://www.amazon.com/Water-Detector-Buzzer-Email-Alerts/dp/B00FG9Y2MC/ref=sr_1_10?dchild=1&keywords=Proteus&qid=1586205858&sr=8-10#customerReviews
+-- https://proteussensor.com

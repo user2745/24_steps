@@ -25,5 +25,8 @@ Six Themes of Successful Innovation Based Businesses (24 steps)
 
 > How do you Scale ? 
 
+REMINDER: This is an iterative process.
+Iterate to hone the model.
+
 Successful IOT Examples
 -- https://proteussensor.com

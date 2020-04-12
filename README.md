@@ -10,6 +10,7 @@ Learning from the best among us is the easiest & fastest way to get going
 
 Good Artists copy, Great Artists steal.
 
+-------------------------------------------------------------------------------------------------------------------
 
 Six Themes of Successful Innovation Based Businesses (24 steps)
 

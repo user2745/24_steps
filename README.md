@@ -14,19 +14,18 @@ Good Artists copy, Great Artists steal.
 
 Six Themes of Successful Innovation Based Businesses (24 steps)
 
-> Who is your customer ?
+> Who is your customer ? (Step 1-5 + 9)
 
-> What can you do for your customer ? 
+> What can you do for your customer ? (Step 6-8 + 10-11)
 
-> How does your customer acquire your Product ? 
+> How does your customer acquire your Product ? (Step 12-13 + 18)
 
-> How do you make money off your Product ? 
+> How do you make money off your Product ? (Step 15-17 + 19)
 
-> How do you design & build your product ? 
+> How do you design & build your product ? (Step 20-23)
 
-> How do you Scale ? 
+> How do you Scale ? (Step 14 + 24)
 
-REMINDER: This is an iterative process.
-Iterate to hone the model.
+REMINDER: This is an iterative process. Hone the model.
 
 Model: https://www.crunchbase.com/organization/sensable-technologies#section-overview

@@ -30,6 +30,3 @@ REMINDER: This is an iterative process.
 Iterate to hone the model.
 
 Model: https://www.crunchbase.com/organization/sensable-technologies#section-overview
-
-Successful IOT Examples
--- https://proteussensor.com

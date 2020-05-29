@@ -1,0 +1,35 @@
+Calculate the Lifetime Value of an Aquired Customer (LTV)
+Add up the amount of revenue you can expect per acquired Customer
+discount the revenue by how much it'll require you to pay investors over time
+
+If LTV does not equal 3x COCA -- TRY AGAIN!
+
+Keep in Mind
+> One-time Revenue Streams AND/OR Recurring Revenue Streams -- where is the money coming from
+> Opportunities to Upsell -- what are secondary products/services you can provide
+> Gross Margin for each of your revenue streams -- How high are the margins?
+> Retention Rate -- How many customers continue to pay for your services?
+> Life of Product
+> Next Product Purchase Rate -- 
+> Cost of Capital Rate -- How much it costs (debt or equity) to get money from investors
+
+What is LTV
+The Lifetime Value is a metric that tracks how much value, and how long your customers get value from your business
+
+How to Calculate the LTV
+
+Present Value = Profit * (1 - Cost of Capital Rate)^t
+
+Present Value - The quantified value you bring to customers
+Profit - What your business makes after factoring in costs 
+Cost of Capital Rates - What your investors will need to recoup from their investment
+t - number of years after year 0
+
+
+
+Keep in Mind
+> LTV is about Profit, gross margin, and cost of capital -- 
+> Do not ignore overhead costs -- 
+> High Margins make a HUGE difference -- 
+> Keep your customers -- avoid low retention
+> Upselling can make a HUGE difference -- Selling solutions to existing customers problems

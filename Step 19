@@ -1,3 +1,28 @@
 Calculate the Cost of Customer Acquistion
 
 The COCA is the Cost of Customer Acquisition
+
+<Peep the Linear Algebra references>
+
+
+Cost of Customer Acquistion = ((Total Marketing + Sales Expenses) - (Install base support Expenses)) / (Number of New Customers)
+... as a function of time
+COCA(t) = TMSE(t) - IBSE(t) / NoNC(t)
+
+Ways to Reduce COCA
+
+1) Avoid Direct Sales, focus more on technology
+
+2) Automte your customer Acquisition
+
+3) Improve Conversion Rates in Sales 
+
+4) Improve the quality of Leads + Decrease the cost of Leads
+
+5) Speed through the Sales funnel
+
+6) Keep COCA in mind when choosing the business model
+
+7) Keep Word of Mouth POSITIVE!!!
+
+8) Stay F O C U S E D on the Target Market
